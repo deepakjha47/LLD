@@ -1,6 +1,6 @@
-package StretegyDesignPattern.goodCode.Vehicle;
+package stretegyDesignPattern.goodCode.Vehicle;
 
-import StretegyDesignPattern.goodCode.stretegy.DriveStretegy;
+import stretegyDesignPattern.goodCode.stretegy.DriveStretegy;
 
 public class Vehicle {
     DriveStretegy driveStretegy;

@@ -1,4 +1,4 @@
-package StretegyDesignPattern.badCode;
+package stretegyDesignPattern.badCode;
 
 public class OffroadVehicle extends  Vehicle{
     public void drive(){

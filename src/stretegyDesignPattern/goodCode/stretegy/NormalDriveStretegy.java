@@ -1,4 +1,4 @@
-package StretegyDesignPattern.goodCode.stretegy;
+package stretegyDesignPattern.goodCode.stretegy;
 
 public class NormalDriveStretegy implements DriveStretegy{
 

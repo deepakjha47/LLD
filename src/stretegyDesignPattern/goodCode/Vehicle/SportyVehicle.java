@@ -1,6 +1,6 @@
-package StretegyDesignPattern.goodCode.Vehicle;
+package stretegyDesignPattern.goodCode.Vehicle;
 
-import StretegyDesignPattern.goodCode.stretegy.SpecialDriveStretegy;
+import stretegyDesignPattern.goodCode.stretegy.SpecialDriveStretegy;
 
 public class SportyVehicle extends Vehicle {
     public SportyVehicle(){
