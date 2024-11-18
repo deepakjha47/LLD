@@ -1,4 +1,6 @@
 package interfaceSegregation;
 
-public class Cook {
+public interface Cook {
+    public void cookFood();
+    public void addSpices();
 }
