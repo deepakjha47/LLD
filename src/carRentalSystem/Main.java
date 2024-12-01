@@ -81,6 +81,4 @@ public class Main {
         stores.add(store1);
         return stores;
     }
-
-
 }
