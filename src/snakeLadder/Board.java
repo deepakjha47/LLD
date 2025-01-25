@@ -41,7 +41,7 @@ public class Board {
             Cell cell = getCell(ladderStart);
             cell.jump = ladderObj;
 
-            numberOfSnakes--;
+            numberOfLadders--;
         }
     }
 
